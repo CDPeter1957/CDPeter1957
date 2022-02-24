@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CDPeter1957
 - 👀 I’m interested in programming and 3D-printing
-- 🌱 I’m currently learning MIT app inventor 2
+- 🌱 I’m currently learning MIT app inventor 2 and Kodular
 - 💞️ 
 - 📫 
 
